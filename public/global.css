@@ -45,3 +45,10 @@ body {
             color: #666;
             font-size: 14px;
         }
+
+        #ind1 {
+            color: #4b6cb7;
+            border-bottom: 2px solid #ddd;
+            padding-bottom: 5px;
+        }
+
